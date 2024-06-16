@@ -49,4 +49,4 @@ Farklı araç modellerinin çeşitli özelliklerine dayanarak fiyatlarını tahm
 
 ## Flask API
 
-Flask api ile kullanımı gerçekleştirildi model eğitim dosyasına ulaşmak isterseniz [video linki](https://github.com/lvntaslann/car_price_predict_model).
+Flask api ile kullanımı gerçekleştirildi model eğitim dosyasına ulaşmak isterseniz [repo linki](https://github.com/lvntaslann/car_price_predict_model).
